@@ -1,14 +1,10 @@
 = REST API Level 0 - Eclipse Vert.x Booster
 
-IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
+IMPORTANT: this booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
 
-IMPORTANT: As part of the process of creating this booster, developers.redhat.com/launch or the Fabric8 Launcher tool set up a project with a CI/CD deployment of this booster. You can see the status of this deployment in your Single-node OpenShift Cluster or OpenShift Online Web Console.
 
 == Runing the Booster Locally
 
-To run this booster on your local host:
-
-[source,bash,options="nowrap",subs="attributes+"]
 ----
 $ git clone git@github.com:rohanKanojia/test-rohan12-343
 

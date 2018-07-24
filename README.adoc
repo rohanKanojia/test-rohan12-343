@@ -5,9 +5,6 @@ IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greate
 
 == Runing the Booster Locally
 
-To run this booster on your local host:
-
-[source,bash,options="nowrap",subs="attributes+"]
 ----
 $ git clone git@github.com:rohanKanojia/test-rohan12-343
 

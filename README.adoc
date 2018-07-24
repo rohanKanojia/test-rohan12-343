@@ -1,6 +1,6 @@
 = REST API Level 0 - Eclipse Vert.x Booster
 
-IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
+IMPORTANT: this booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
 
 
 == Runing the Booster Locally
